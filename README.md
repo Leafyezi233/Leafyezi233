@@ -7,8 +7,6 @@
 ### 🌱 在校学生 · 编程爱好者 · 探索者  
 ### 🌱 Student · Code Enthusiast · Explorer
 
-*正在 AI 与数据的海洋里慢慢游向远方 🚢*
-
 ---
 </div>
 
